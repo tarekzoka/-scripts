@@ -1,15 +1,15 @@
 
- 
+Â 
 
  
 	#!/bin/sh	   
 	#	   
-	#command wget https://raw.githubusercontent.com/tarekzoka/
--scripts/main/installer.sh -O - | /bin/sh	   
+	#command wget https://raw.githubusercontent.com/tarekzoka/-scripts/main/installer.sh -O - | /bin/sh
+	   
 	
 	   
-	wget -O /tmp/script-1.0.tar.gz "https://raw.githubusercontent.com/tarekzoka/
--scripts/main/script-1.0.tar.gz"	   
+	wget -O /tmp/script-1.0.tar.gz "https://raw.githubusercontent.com/tarekzoka/-scripts/main/script-1.0.tar.gz"
+	   
 	wait	   
 	tar xzvpf /tmp/*.tar.gz  -C /	   
 	wait	   
