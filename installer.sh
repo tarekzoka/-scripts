@@ -7,7 +7,7 @@
 	#command wget https://raw.githubusercontent.com/tarekzoka/scripts/main/installer.sh -O - | /bin/sh	   
 	
 	   
-	wget -O /var/volatile/tmp/script-1.0.tar.gz "https://raw.githubusercontent.com/emilnabil/scripts/main/script-1.0.tar.gz"	   
+	wget -O /var/volatile/tmp/script-1.0.tar.gz "https://raw.githubusercontent.com/tarekzoka/scripts/main/script-1.0.tar.gz"	   
 	wait	   
 	tar xzvpf /tmp/*.tar.gz  -C /	   
 	wait	   
